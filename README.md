@@ -23,4 +23,4 @@ If you want to replicate the experiments by yourself, a working installation of 
 - SciPy (https://pypi.org/project/scipy/)
 
 ### References
-[1] *TBA*
+[1] Gaudreault, J. G., & Branco, P. (2023, October). Toward Streamlining the Evaluation of Novelty Detection in Data Streams. In International Conference on Discovery Science (pp. 703-717). Cham: Springer Nature Switzerland.
